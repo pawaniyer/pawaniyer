@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pawan Iyer
-- 👀 I’m interested in Technology and Aerospace!
-- 🌱 I’m currently studying Computer Engineering @ University of Waterloo
+- 🧠 I’m interested in Technology and Aerospace!
+- 🎓 I’m currently studying Computer Engineering @ University of Waterloo
 - 👨‍💻 I’m looking to work on Product/Project Management Roles
 
 <!---
